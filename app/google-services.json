@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637873950514",
+    "firebase_url": "https://chatapplication-5e44c-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-5e44c",
+    "storage_bucket": "chatapplication-5e44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637873950514:android:f3e600dc8be1606946912b",
+        "android_client_info": {
+          "package_name": "com.elcin.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637873950514-ih4gs58iho29p367jetr6crktus7hois.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-cebjhjxrGZ50MKVMn5ZkshXC1a0VZI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637873950514-ih4gs58iho29p367jetr6crktus7hois.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
